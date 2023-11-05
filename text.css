@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Caveat&family=Gabarito&family=Sometype+Mono:wght@600&display=swap');
+
+header,body {
+    font-family: 'Bruno Ace SC', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Gabarito', sans-serif;
+    font-family: 'Sometype Mono', monospace;
+}
+
+.play h1{
+    color: #cb7b24;
+    text-shadow: 5px 5px 5px black;
+}
+
+.menu a,.changeTheme,.changeLanguage{
+    color: #cb7b24;
+    text-shadow: 5px 5px 5px black;
+}
+
